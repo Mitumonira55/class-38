@@ -1,0 +1,83 @@
+h1{
+    background-color: rgb(236, 19, 19);
+    color: #ddd;
+    display:inline-block;
+    height:"200px";
+    width:"150px";
+}
+span{
+    color: aqua;
+    font-size: 45px;
+}
+.contact{
+    text-decoration: none;
+    float: right;
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    padding: 5px;
+}
+img{
+height: 100px;
+width:50px;
+float: left;
+margin-bottom: 20px;
+}
+ul{
+    color: black;
+    text-transform: capitalize;
+    border: 1px solid rgb(53, 24, 24);
+    background-color: rgb(149, 223, 223);
+    border-radius: 5px;
+    margin-right: 100px;
+    font-size: 15px;
+    width: 1000px;
+    float: right;
+    padding: 8px;
+}
+.home{
+    
+    
+    float: right;
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    padding: 5px;
+    
+}
+.Gallery{
+    
+    float: right;
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    padding: 5px;
+}
+.blog{
+    
+    float: right;
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    padding: 5px; 
+}
+.about{
+    
+    float: right;
+    margin-top: 0px;
+    margin-right:50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    padding: 5px; 
+}
+.blog-two{
+    height: 400px;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
